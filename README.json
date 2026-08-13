@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "description": "ეს მთელი კოლექცია ხელმისაწვდომია MCP server-ად — Claude Code-ის, Cursor-ის, Codex-ის ან ნებისმიერი MCP-თავსებადი client-ის შიგნიდან 300 რეპოს ეძებ ბუნებრივი ენით. ნაცვლად იმისა, რომ GitHub-ი გახსნა და README-ი დააქოქო, AI ასისტენტს ჰკითხე \"აი Pulse-ის კოლექციაში რა არის საუკეთესო RAG-ისთვის?\" — სწორ რეპოს ქართული აღწერით დაგიბრუნებს.\nMCP Install — ან Cursor MCP settings-ში:\nან პირდაპირ ტერმინალში — CLI-ით (MCP-კლიენტის გარეშე):\nბრძანებები: · · · · — ფლაგებით , , , .",
+      "items": [],
+      "title": "⚡ გამოიყენე Claude Code-ში / Cursor-ში — MCP Server-ით ან CLI-ით"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🤖 კოდინგ აგენტები"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⚡ Claude Code პლაგინები და უნარები"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎨 დიზაინი და UI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔌 MCP ინტეგრაციები"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🕷️ ვებ სკრეიპინგი და ბრაუზერი"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧬 AI აგენტების ფრეიმვორკები"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔁 Workflow და No-Code ბილდერები"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💼 AI ასისტენტები და ბიზნეს-აგენტები"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💰 ფინანსური AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧠 მეხსიერება, RAG და Vector DB"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔍 კოდბაზის გრაფები და კონტექსტი"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💸 ტოკენების დაზოგვა და ხარჯი"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⚙️ ინფერენსი და LLM ხელსაწყოები"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎬 მედია-გენერაცია"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 რესურსები და სასწავლო მასალები"
+    },
+    {
+      "description": "ეს სია იმართება AI Pulse Georgia-ს მიერ — საზოგადოება, რომელიც ფოკუსირებულია AI აგენტებზე, ავტომატიზაციაზე და ავტონომიური სისტემების მომავალზე.\nთუ ეს სია გამოგადგებათ, მიეცით ვარსკვლავი და გაუზიარეთ სხვებს, ვინც AI აგენტებით აშენებს.",
+      "items": [],
+      "title": "ჩვენს შესახებ"
+    },
+    {
+      "description": "იპოვეთ შესანიშნავი რეპოზიტორია, რომელიც ამ სიაში ჯდება? გახსენით issue ან გამოაგზავნეთ pull request.",
+      "items": [],
+      "title": "წვლილის შეტანა"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ლიცენზია"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:25:41.927Z",
+    "original_repository": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+    "original_repository_sha": "f8d3feb72516b5a3839b8cea721d2ad0f9526466",
+    "enhanced_repository": "enhansome/enhansome-ai-pulse-georgia",
+    "enhanced_repository_description": null,
+    "title": "Awesome ai pulse georgia with stars"
+  }
+}
